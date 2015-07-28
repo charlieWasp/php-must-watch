@@ -16,17 +16,17 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 ###Basics
 
-* [**Composer, Autoloading, Namespacing, and PHPUnit**](https://www.youtube.com/watch?v=84j61_aI0q8) - Tuts+ Code `[23:53]`
-* [**Clean Code I: Arguments**](https://vimeo.com/13439458) - Uncle Bob, not PHP-specific `[53:33]`
-* [**Clean Code II: Functions**](https://vimeo.com/12643301) - Uncle Bob, not PHP-specific `[51:30]`
+* ~~[**Composer, Autoloading, Namespacing, and PHPUnit**](https://www.youtube.com/watch?v=84j61_aI0q8) - Tuts+ Code `[23:53]`~~
+* ~~[**Clean Code I: Arguments**](https://vimeo.com/13439458) - Uncle Bob, not PHP-specific `[53:33]`~~
+* ~~[**Clean Code II: Functions**](https://vimeo.com/12643301) - Uncle Bob, not PHP-specific `[51:30]`~~
 
 [Back to top](#php-must-watch)
 
 ###General
-* [**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`
+* ~~[**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`~~
 * [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://vimeo.com/47849625) - Paul M. Jones at Nashville PHP `[47:44]`
-* [**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014 `[18:19]`
-* [**The Modern Developer Toolbox**](https://www.youtube.com/watch?v=VHkIc329Idw) - Pablo Godel at PHPNW14 `[49:55]`
+* ~~[**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014~~ `[18:19]`
+* ~~[**The Modern Developer Toolbox**](https://www.youtube.com/watch?v=VHkIc329Idw) - Pablo Godel at PHPNW14 `[49:55]`~~
 * [**PHP-FIG:History and Future**](https://www.youtube.com/watch?v=Gp9oSfSfr5I) - Phil Sturgeon at PHP CRAFT SouthAfrica 2014 `[1:05:01]`
 * [**PHP 5.NEXT: The New Bits**](https://www.youtube.com/watch?v=zX_U5mymWAg) - Davey Shafik at PHP UK Conference 2014 `[42:40]`
 * [**Your (coding) standards matter**](https://www.youtube.com/watch?v=GQiUpjiyer0) - Volker Dusch at PHPNW13 `[45:00]`
